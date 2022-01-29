@@ -1,0 +1,6 @@
+payload:
+  # > NON-CHINA
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,microsoft.com
+  - DOMAIN-KEYWORD,google
