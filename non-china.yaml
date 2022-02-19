@@ -7,3 +7,4 @@ payload:
   - DOMAIN-KEYWORD,lede-project.org
   - DOMAIN-KEYWORD,kernel.org
   - DOMAIN-KEYWORD,uwaterloo.ca
+  - DOMAIN-KEYWORD,openssl.org
