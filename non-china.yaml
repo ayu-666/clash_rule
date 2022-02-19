@@ -1,6 +1,9 @@
 payload:
-  # > NON-CHINA
-  - DOMAIN-KEYWORD,github
-  - DOMAIN-KEYWORD,youtube
+# > NON-CHINA
+  - DOMAIN-KEYWORD,github.com
+  - DOMAIN-KEYWORD,youtube.com
   - DOMAIN-KEYWORD,microsoft.com
   - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,lede-project.org
+  - DOMAIN-KEYWORD,kernel.org
+  - DOMAIN-KEYWORD,uwaterloo.ca
